@@ -1,2 +1,2 @@
 # Demo1
-learning to github
+learning github
